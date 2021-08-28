@@ -1,0 +1,13 @@
+asgiref==3.4.1
+click==8.0.1
+colorama==0.4.4
+fastapi==0.68.1
+greenlet==1.1.1
+h11==0.12.0
+pydantic==1.8.2
+SQLAlchemy==1.4.23
+sqlalchemy2-stubs==0.0.2a14
+sqlmodel==0.0.4
+starlette==0.14.2
+typing-extensions==3.10.0.0
+uvicorn==0.15.0
